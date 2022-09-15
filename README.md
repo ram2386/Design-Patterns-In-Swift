@@ -35,4 +35,5 @@ Most of these design patterns are specifically concerned with communication betw
  - `Template` method defines the skeleton of an algorithm as an abstract class, allowing its subclasses to provide concrete behavior.
  - `Visitor` separates an algorithm from an object structure by moving the hierarchy of methods into one object.
 
-**Source:** [wikipedia.org](https://en.wikipedia.org/wiki/Design_Patterns)
+**Source:** [wikipedia.org](https://en.wikipedia.org/wiki/Design_Patterns) <br />
+**Reference:** [Design-Pattern-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
