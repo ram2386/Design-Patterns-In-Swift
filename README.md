@@ -3,9 +3,9 @@
 ## Creational
 Creational patterns are ones that create objects, rather than having to instantiate objects directly. This gives the program more flexibility in deciding which objects need to be created for a given case.
 
- - `Abstract` factory groups object factories that have a common theme.
+ - `Abstract` factory groups object factories that have a common theme.✅
  - `Builder` constructs complex objects by separating construction and representation.
- - `Factory` method creates objects without specifying the exact class to create.
+ - `Factory` method creates objects without specifying the exact class to create.✅
  - `Prototype` creates objects by cloning an existing object.
  - `Singleton` restricts object creation for a class to only one instance.
 
@@ -15,7 +15,7 @@ These concern class and object composition. They use inheritance to compose inte
  - `Adapter` allows classes with incompatible interfaces to work together by wrapping its own interface around that of an already existing class.
  - `Bridge` decouples an abstraction from its implementation so that the two can vary independently.
  - `Composite` composes zero-or-more similar objects so that they can be manipulated as one object.
- - `Decorator` dynamically adds/overrides behaviour in an existing method of an object.
+ - `Decorator` dynamically adds/overrides behaviour in an existing method of an object.✅
  - `Facade` provides a simplified interface to a large body of code.
  - `Flyweight` reduces the cost of creating and manipulating a large number of similar objects.
  - `Proxy` provides a placeholder for another object to control access, reduce cost, and reduce complexity.
